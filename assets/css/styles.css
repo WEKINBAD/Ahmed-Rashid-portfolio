@@ -638,6 +638,7 @@ img{
 }
 .interests__button:hover .button__icon{
     transform: translateX(.25rem);
+}
 
 /*==================== CONTACT ME ====================*/
 .contact__container{
